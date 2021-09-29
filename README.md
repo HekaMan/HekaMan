@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HekaMan
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning Pyhton to programme Discord bots!
